@@ -14,7 +14,7 @@
 
 <h2 align="center"> MORE ABOUT ME ⬇</h2>
 <p align="center">
-I'm a <u>junior programmer</u> focused on <b>web development🙇‍♂️</b> from Argentina 🇦🇷. Started not too long ago, but still expect to do my best❤
+I'm a <u>junior programmer</u> focused on <b>web development🙇‍♂️</b> from Argentina 🇦🇷. Started not too long ago, but still expect to do my best❤. <br>
 <b>Always trying to learn something new</b>.
 <p>
   <br>
