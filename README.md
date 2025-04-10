@@ -1,12 +1,19 @@
-<h2 align="center"> 💥WHAT DO I KNOW?💥 </h2>
+<h2 align="center"> What i know until today: </h2>
 
   <p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="60px">
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="60px">
-  <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="60px">
-  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="60px">
-  <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="60px">
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="60px">
+    
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"            width="50px"  title="HTML5">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"             width="50px"  title="CSS3">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"    width="50px"  title="Tailwind">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"         width="50px"  title="NodeJS">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"      width="50px"  title="JavaScript">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"      width="50px"  title="TypeScript">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png"           width="50px"  title="React">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png"         width="50px"  title="NextJS">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"      width="50px"  title="Postgresql">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png"          width="50px"  title="Sqlite">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"           width="50px"  title="MySql">
+  
   </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aragon-Joaquin&layout=compact">
@@ -14,12 +21,12 @@
 
 <h2 align="center"> MORE ABOUT ME ⬇</h2>
 <p align="center">
-I'm a <u>junior programmer</u> focused on <b>web development🙇‍♂️</b> from Argentina 🇦🇷. Started not too long ago, but still expect to do my best❤. <br>
-<b>Always trying to learn something new</b>.
+I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> with <b><ins>backend knowledge</ins> ❗</b> from Argentina 🇦🇷. 
+<br><br> <em>Started not too long ago, but still expect to do my best.</em>
 <p>
   <br>
 <span>
-<b>I speak the following languages 🌟</b>
+<b>I speak the following languages</b>
 <li>📘 - English.</li>
 <li>📕 - Spanish.</li>
 </span>
