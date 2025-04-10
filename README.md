@@ -36,7 +36,7 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
 
 <h2 align="center"> CONTACT ME ON 📥</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/aragon-joaquin"><img src="https://img.shields.io/badge/LinkedIn-True?style=for-the-badge&logoColor=%235865F2&label=LinkedIn&color=%230A66C2"></a>
+  <a href="https://www.linkedin.com/in/aragon-joaquin"><img src="https://img.shields.io/badge/aragon−joaquin-True?style=for-the-badge&logoColor=%235865F2&label=LinkedIn&color=%230A66C2"></a>
   <a><img src="https://img.shields.io/badge/aragon2004-Username?style=for-the-badge&logo=discord&label=Discord&color=%235865F2"></a>
 </p>
 
