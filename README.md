@@ -13,6 +13,9 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png"      width="50px"  title="Postgresql">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png"          width="50px"  title="Sqlite">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"           width="50px"  title="MySql">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png"      width="40px"  title="Arch Linux (btw)">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png"              width="40px"  title="Go" align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png"         width="40px"  title="Angular" align="center">
 </p>
 
     
@@ -43,11 +46,10 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
 <section>
 <h5 align="center">learning right now:</h5>
   <p align="center">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png"          width="40px"  title="Go" align="center">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png"     width="40px"  title="Angular" align="center">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"      width="40px"  title="Docker" align="center">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png"  width="40px"  title="Arch Linux (btw)" align="center">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png"      width="40px"  title="NeoVim (btw)" align="center">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png"           width="40px"  title="C" align="center">
+    
   </p>
 </section>
 
