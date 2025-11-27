@@ -35,15 +35,16 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
   </h2>
   
   <p align="center">
-  &nbsp;<code>
-  <img src="./icons/languages/javascript.svg" height="60" alt="" title="" />
-  </code>&nbsp;
-  &nbsp;<code align="center">
-  <img src="./icons/languages/typescript.svg" height="60" alt="" title="" />
-  </code>&nbsp;
-  &nbsp;<code align="center">
-  <img src="./icons/languages/go.svg" height="60" alt="" title="" />
-  </code>&nbsp;
+  &nbsp;
+  <code><a><img height="60" src="./icons/languages/javascript.svg" title="JavaScript" /></a></code>
+  &nbsp;
+  &nbsp;
+  <code><a><img height="60" src="./icons/languages/typescript.svg" title="TypeScript" /></a></code>
+  &nbsp;
+  <code>
+  &nbsp;
+  <code><a><img height="60" src="./icons/languages/go.svg" title="GoLang" /></a></code>
+  &nbsp;
   </p>
 </span>
 
