@@ -41,7 +41,6 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
   &nbsp;
   <code><a><img height="60" src="./icons/languages/typescript.svg" title="TypeScript" /></a></code>
   &nbsp;
-  <code>
   &nbsp;
   <code><a><img height="60" src="./icons/languages/go.svg" title="GoLang" /></a></code>
   &nbsp;
