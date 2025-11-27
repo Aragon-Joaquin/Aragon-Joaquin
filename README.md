@@ -19,10 +19,6 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
 </p>
 <br>
 
-### What I know so far
-
-> (_these are the most relevant, but the list is still uncomplete)_
-
 <!-- BackEnd -->
 <!-- FrontEnd -->
 <!-- Languages -->
@@ -46,6 +42,12 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
   &nbsp;
   </p>
 </span>
+
+<br>
+ <blockquote align="center">
+   (these are the most relevant, but the list is still uncomplete)
+ </blockquote>
+
 
 <!-- i forgot who was the author of this cool looking table -->
 <p align="right">
