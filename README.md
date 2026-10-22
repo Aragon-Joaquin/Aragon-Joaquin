@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 Argentinian (🇦🇷) <b>Backend</b> & <b>Distributed systems</b> developer with <b>Frontend knowledge</b> trying to be an OS Dev.
   <p align="right"><em>- "Only a slave quantifies its existence through productivity".</em></p>
 </p>
