@@ -17,8 +17,8 @@ Argentinian (🇦🇷) <b>Backend</b> & <b>Distributed systems</b> developer wit
   </span>
 <br>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aragon-joaquin"><img src="https://img.shields.io/badge/aragon−joaquin-True?style=for-the-badge&logoColor=%235865F2&label=LinkedIn&color=%230A66C2"></a>
-  <a><img src="https://img.shields.io/badge/aragon2004-Username?style=for-the-badge&logo=discord&label=Discord&color=%235865F2"></a>
+  <a href="https://www.linkedin.com/in/aragon-joaquin" target="_blank"><img src="https://img.shields.io/badge/aragon−joaquin-True?style=for-the-badge&logoColor=%235865F2&label=LinkedIn&color=%230A66C2"></a>
+  <a href="https://discord.gg/5XsKqbkK" target="_blank"><img src="https://img.shields.io/badge/aragon2004-Username?style=for-the-badge&logo=discord&label=Discord&color=%235865F2"></a>
 </p>
 <br>
 
