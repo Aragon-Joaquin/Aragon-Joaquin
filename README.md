@@ -1,5 +1,5 @@
 <p align="left">
-Argentinian 🇦🇷 <b>Backend</b> & <b>Distributed systems</b> developer with <b>Frontend knowledge</b> trying to be an OS Dev.
+Argentinian (🇦🇷) <b>Backend</b> & <b>Distributed systems</b> developer with <b>Frontend knowledge</b> trying to be an OS Dev.
   <p align="right"><em>- "Only a slave quantifies its existence through productivity".</em></p>
 </p>
 <br>
@@ -28,7 +28,7 @@ Argentinian 🇦🇷 <b>Backend</b> & <b>Distributed systems</b> developer with 
   </h2>
 
   <p align="center">
-  &nbsp;&nbsp;
+  &nbsp;
   <code><a><img height="60" src="./icons/languages/typescript.svg" title="TypeScript" /></a></code>
   &nbsp;&nbsp;
   <code><a><img height="60" src="./icons/languages/go.svg" title="GoLang" /></a></code>
@@ -36,12 +36,12 @@ Argentinian 🇦🇷 <b>Backend</b> & <b>Distributed systems</b> developer with 
  <code><a><img height="60" src="./icons/languages/csharp.png" title="ASP.NET Core" /></a></code>
   &nbsp;&nbsp;
  <code><a><img height="60" src="./icons/languages/c.svg" title="C" /></a></code>
-&nbsp;
+  &nbsp;
   </p>
 </span>
 
 <section>
-<h5 align="left">Planned to learn in a future:</h5>
+<h4 align="left">Planned to learn in a future:</h4>
 <ul>
     <li>Assembly</li>
 </ul>
