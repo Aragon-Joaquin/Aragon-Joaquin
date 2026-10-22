@@ -74,7 +74,6 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
         <img src="./icons/frontend/svelte.svg" height="50" alt="Svelte" />
       <br>Svelte
     </td>
-
     <td align="center" width="70">
         <img src="./icons/frontend/react.svg" height="50" alt="React" />
       <br>React
@@ -87,7 +86,6 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
         <img src="./icons/frontend/tailwindcss.svg" height="50" alt="Tailwind" />
       <br>Tailwind
     </td>
-
   </tr>
 </table>
 
