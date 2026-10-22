@@ -31,19 +31,13 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
   </h2>
 
   <p align="center">
-  &nbsp;
-  <code><a><img height="60" src="./icons/languages/javascript.svg" title="JavaScript" /></a></code>
-  &nbsp;
-  &nbsp;
+  &nbsp;&nbsp;
   <code><a><img height="60" src="./icons/languages/typescript.svg" title="TypeScript" /></a></code>
-  &nbsp;
-  &nbsp;
+  &nbsp;&nbsp;
   <code><a><img height="60" src="./icons/languages/go.svg" title="GoLang" /></a></code>
-  &nbsp;
-  &nbsp;
+  &nbsp;&nbsp;
  <code><a><img height="60" src="./icons/languages/csharp.png" title="ASP.NET Core" /></a></code>
-  &nbsp;
-  &nbsp;
+  &nbsp;&nbsp;
  <code><a><img height="60" src="./icons/languages/c.svg" title="C" /></a></code>
 
 &nbsp;
@@ -75,6 +69,12 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
         <img src="./icons/frontend/angular.svg" height="50" alt="Angular" />
       <br>Angular
     </td>
+
+ <td align="center" width="70">
+        <img src="./icons/frontend/svelte.svg" height="50" alt="Svelte" />
+      <br>Svelte
+    </td>
+
     <td align="center" width="70">
         <img src="./icons/frontend/react.svg" height="50" alt="React" />
       <br>React
@@ -87,6 +87,7 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
         <img src="./icons/frontend/tailwindcss.svg" height="50" alt="Tailwind" />
       <br>Tailwind
     </td>
+
   </tr>
 </table>
 
@@ -123,17 +124,13 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
 <h3><i>My Environment:</i></h3>
 <table>
   <tr>
-    <td align="center" width="70">
-        <img src="./icons/tooling/vscode.svg" height="50" alt="VSCode" />
-      <br>VSC*de
-    </td>
-    <td align="center" width="70">
+      <td align="center" width="70">
         <img src="./icons/tooling/git.svg" height="50" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="70">
-        <img src="./icons/tooling/vim.svg" height="50" alt="Vim" />
-      <br>Vim (btw)
+        <img src="./icons/tooling/docker.svg" height="50" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="70">
         <img src="./icons/tooling/neovim.svg" height="50" alt="Neovim (btw)" />
@@ -147,11 +144,7 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
         <img src="./icons/tooling/linux.svg" height="50" alt="Linux/Unix" />
       <br>Linux/Unix
     </td>
-    <td align="center" width="70">
-        <img src="./icons/tooling/archlinux.svg" height="50" alt="ArchLinux" />
-      <br>Arch (btw)
-    </td>
-    <td align="center" width="70">
+       <td align="center" width="70">
         <img src="./icons/tooling/VoidLinux.png" height="50" alt="VoidLinux" />
       <br>Void (btw)
     </td>
@@ -177,7 +170,6 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
 <h5 align="center">planned to  learn:</h5>
   <p align="center">
     <img src="./icons/learning/assembly.svg" height="50" title="Assembly" align="center" /> 
-    <img src="./icons/learning/docker.svg" height="50" title="Docker" align="center" />
   </p>
 </section>
 
