@@ -29,7 +29,7 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
   <h2 align="center" color="white">
     Main Languages
   </h2>
-  
+
   <p align="center">
   &nbsp;
   <code><a><img height="60" src="./icons/languages/javascript.svg" title="JavaScript" /></a></code>
@@ -40,6 +40,13 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
   &nbsp;
   <code><a><img height="60" src="./icons/languages/go.svg" title="GoLang" /></a></code>
   &nbsp;
+  &nbsp;
+ <code><a><img height="60" src="./icons/languages/csharp.png" title="ASP.NET Core" /></a></code>
+  &nbsp;
+  &nbsp;
+ <code><a><img height="60" src="./icons/languages/c.svg" title="C" /></a></code>
+
+&nbsp;
   </p>
 </span>
 
@@ -48,13 +55,12 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
    (these are the most relevant, but the list is still uncomplete)
  </blockquote>
 
-
 <!-- i forgot who was the author of this cool looking table -->
 <p align="right">
   <h3>
     <i>FrontEnd tools:</i>
   </h3>
-  
+
   <table>
   <tr>
     <td align="center" width="70">
@@ -170,8 +176,7 @@ I'm a <b>junior programmer</b> focused on <b><ins>web development</ins> ❗</b> 
 <section>
 <h5 align="center">planned to  learn:</h5>
   <p align="center">
-    <img src="./icons/learning/assembly.svg" height="50" title="Assembly" align="center" />
-    <img src="./icons/learning/c.svg" height="50" title="C" align="center" />
+    <img src="./icons/learning/assembly.svg" height="50" title="Assembly" align="center" /> 
     <img src="./icons/learning/docker.svg" height="50" title="Docker" align="center" />
   </p>
 </section>
